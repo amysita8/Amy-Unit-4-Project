@@ -1,0 +1,87 @@
+body {
+    font-family: "Brush Script MT", monospace;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 25px;
+}
+
+img {
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.resultTryagain {
+    display: none;
+}
+
+.questions {
+    display: none;
+    font-size: 40px;
+}
+
+.b2 {
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 200px;
+
+    display: none;
+
+}
+
+.title {
+    display: none;
+}
+
+.pandaIMG {
+    display: none;
+}
+
+
+.blackbearIMG {
+    display: none;
+}
+
+.grizzlyIMG {
+    display: none;
+}
+
+.polarbearIMG {
+    display: none;
+}
+
+.resultPanda {
+    display: none;
+    font-size: 40px;
+}
+
+.resultBlackbear {
+    display: none;
+    font-size: 40px;
+}
+
+.resultGrizzly {
+    display: none;
+    font-size: 40px;
+}
+
+.resultPolarbear {
+    display: none;
+    font-size: 40px;
+}
+
+.b3 {
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 200px;
+    display: none;
+}
+
+.resultTryagain {
+    font-size: 40px;
+}
