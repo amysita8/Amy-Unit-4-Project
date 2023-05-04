@@ -54,7 +54,6 @@ button2.onclick = function() {
         resultPanda.innerHTML = "<p>" + "You were born in " + q1 + "</p>" + "<p>" + "You prefer " + q2 + "<p>" + "and you said " + q3 + " for siblings" + "</p>" + "<p>" + "You are a Panda!!" + "</p>";
     }
 
-
     //Black bear code
     else if ((q1 >= 2000) && (q2 === "hot" || q2 === "Hot") && (q3 === "yes" || q3 === "Yes" || q3 === "No" || q3 === "no")) {
         document.querySelector(".blackbearIMG").style.display = "block";
@@ -140,3 +139,8 @@ button2.onclick = function() {
         button2.style.display = "none"; 
     };
 };
+
+
+
+
+
